@@ -1,3 +1,2 @@
-public class Punto {
-    public record coordinate (int x, int y){}
-}
+public record Punto (int x, int y){}
+
